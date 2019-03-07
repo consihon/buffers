@@ -9,21 +9,4 @@
 * [repo]()
 ### Modules
 #### `index`
-##### Exported Values and Methods
-
-###### `greet() -> string`
-
-#### `arithmetic.js`
-##### Exported Values and Methods
-
-###### `add(...numbers) -> number`
-###### `subtract(...numbers) -> number`
-###### `multiply(...numbers) -> number`
-###### `divide(...numbers) -> number`
-
-
-#### Tests
-* To run tests, please use the `npm run test` command.
-
-#### UML
-![UML](uml.png)
+-writes a file that when ran, will console.log 3 names.
